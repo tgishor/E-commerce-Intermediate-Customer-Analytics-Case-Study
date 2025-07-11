@@ -28,7 +28,7 @@ Working with over 20,000 customer ratings and reviews, this project showcases ad
 | Section | Description | Link |
 |---------|-------------|------|
 | 📊 **Main Analysis** | Complete Jupyter notebook with full analysis | [View Notebook](https://github.com/tgishor/E-commerce-Intermediate-Customer-Analytics-Case-Study/blob/main/ecommerce-customer-analytics-case-study.ipynb) |
-| 📁 **Dataset** | E-commerce customer ratings data | [View Data](files/) |
+| 📁 **Dataset** | E-commerce customer ratings data | [View Data](https://github.com/tgishor/E-commerce-Intermediate-Customer-Analytics-Case-Study/blob/main/The_E-commerce_Dataset.csv) |
 | 📋 **Documentation** | Project overview and findings | *This README* |
 
 ## Project Objectives
