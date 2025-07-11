@@ -23,6 +23,14 @@
 
 Working with over 20,000 customer ratings and reviews, this project showcases advanced data cleaning techniques, statistical analysis, and business intelligence methodologies that you'd encounter in real-world e-commerce environments.
 
+## Quick Navigation
+
+| Section | Description | Link |
+|---------|-------------|------|
+| 📊 **Main Analysis** | Complete Jupyter notebook with full analysis | [View Notebook](https://github.com/tgishor/E-commerce-Intermediate-Customer-Analytics-Case-Study/blob/main/ecommerce-customer-analytics-case-study.ipynb) |
+| 📁 **Dataset** | E-commerce customer ratings data | [View Data](files/) |
+| 📋 **Documentation** | Project overview and findings | *This README* |
+
 ## Project Objectives
 
 **Data Quality Mastery**
