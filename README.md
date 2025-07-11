@@ -6,6 +6,17 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Data Science](https://img.shields.io/badge/Level-Intermediate-red.svg)](https://github.com/topics/data-science)
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
 **An intermediate-level data science project** that dives deep into customer behavior analytics using real e-commerce data. This comprehensive case study walks through the complete data analytics pipeline, from messy raw data to actionable business insights, making it perfect for data scientists looking to demonstrate practical industry skills.
 
 Working with over 20,000 customer ratings and reviews, this project showcases advanced data cleaning techniques, statistical analysis, and business intelligence methodologies that you'd encounter in real-world e-commerce environments.
