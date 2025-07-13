@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
+
+
 ## Introduction
 
 **An intermediate-level data science project** that dives deep into customer behavior analytics using real e-commerce data. This comprehensive case study walks through the complete data analytics pipeline, from messy raw data to actionable business insights, making it perfect for data scientists looking to demonstrate practical industry skills.
